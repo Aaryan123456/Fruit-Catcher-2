@@ -1,2 +1,1 @@
-# Fruit-Catcher-2
-Catch to catch the fruit
+# C39-Debug-Part-1
